@@ -7,8 +7,8 @@ EXPOSE 8081
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
-COPY ["DealershipSystem/DealershipSystem.csproj", "DealershipSystem/"]
-RUN dotnet restore "DealershipSystem/DealershipSystem.csproj"
+COPY ["DealershipSystem.csproj", "DealershipSystem/"]
+RUN dotnet restore "DealershipSystem.csproj"
 COPY . .
 WORKDIR "/src/DealershipSystem"
 RUN dotnet build "DealershipSystem.csproj" -c $BUILD_CONFIGURATION -o /app/build
