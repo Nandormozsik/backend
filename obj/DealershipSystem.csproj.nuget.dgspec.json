@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mozsi\\Downloads\\carshopproj-main\\carshopproj-main\\backend\\DealershipBackend\\DealershipSystem\\DealershipSystem.csproj": {}
+    "F:\\Vizsgaremek\\autoplatzdealer\\backend\\DealershipBackend\\DealershipSystem\\DealershipSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mozsi\\Downloads\\carshopproj-main\\carshopproj-main\\backend\\DealershipBackend\\DealershipSystem\\DealershipSystem.csproj": {
+    "F:\\Vizsgaremek\\autoplatzdealer\\backend\\DealershipBackend\\DealershipSystem\\DealershipSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mozsi\\Downloads\\carshopproj-main\\carshopproj-main\\backend\\DealershipBackend\\DealershipSystem\\DealershipSystem.csproj",
+        "projectUniqueName": "F:\\Vizsgaremek\\autoplatzdealer\\backend\\DealershipBackend\\DealershipSystem\\DealershipSystem.csproj",
         "projectName": "DealershipSystem",
-        "projectPath": "C:\\Users\\mozsi\\Downloads\\carshopproj-main\\carshopproj-main\\backend\\DealershipBackend\\DealershipSystem\\DealershipSystem.csproj",
-        "packagesPath": "C:\\Users\\mozsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mozsi\\Downloads\\carshopproj-main\\carshopproj-main\\backend\\DealershipBackend\\DealershipSystem\\obj\\",
+        "projectPath": "F:\\Vizsgaremek\\autoplatzdealer\\backend\\DealershipBackend\\DealershipSystem\\DealershipSystem.csproj",
+        "packagesPath": "C:\\Users\\thatg\\.nuget\\packages\\",
+        "outputPath": "F:\\Vizsgaremek\\autoplatzdealer\\backend\\DealershipBackend\\DealershipSystem\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\mozsi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thatg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

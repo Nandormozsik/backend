@@ -64,6 +64,19 @@ public class Program
                     ValidateIssuer = false,
                     ValidateAudience = false
                 };
+                x.Events = new JwtBearerEvents
+                {
+                    OnMessageReceived = context =>
+                    {
+                        if (string.IsNullOrWhiteSpace(context.Token) &&
+                            context.Request.Cookies.TryGetValue("AccessToken", out var cookieToken))
+                        {
+                            context.Token = cookieToken;
+                        }
+
+                        return Task.CompletedTask;
+                    }
+                };
             });
         builder.Services.AddAuthorization();
         
@@ -72,7 +85,13 @@ public class Program
         {
             options.AddPolicy("AllowSpecificOrigin", policy =>
             {
-                policy.WithOrigins("http://localhost:5173") 
+                policy.WithOrigins(
+                        "http://localhost:5173",
+                        "http://127.0.0.1:5173",
+                        "https://localhost:5173",
+                        "https://autoplatzdealer.hu",
+                        "https://www.autoplatzdealer.hu"
+                    ) 
                     .AllowCredentials()
                     .AllowAnyHeader()
                     .AllowAnyMethod();

@@ -1,1180 +1,468 @@
 {
   "Files": [
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/037d874d-d51b-4914-ae53-a847cf749f0f_9572469A30241026W00106.jpg",
-      "PackagePath": "staticwebassets/uploads/037d874d-d51b-4914-ae53-a847cf749f0f_9572469A30241026W00106.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/1.jpg",
+      "PackagePath": "staticwebassets/uploads/17/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00302.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00302.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/10.jpg",
+      "PackagePath": "staticwebassets/uploads/17/10.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00303.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00303.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/11.jpg",
+      "PackagePath": "staticwebassets/uploads/17/11.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00304.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00304.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/2.jpg",
+      "PackagePath": "staticwebassets/uploads/17/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00305.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00305.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/3.jpg",
+      "PackagePath": "staticwebassets/uploads/17/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00306.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00306.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/4.jpg",
+      "PackagePath": "staticwebassets/uploads/17/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00307.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00307.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/5.jpg",
+      "PackagePath": "staticwebassets/uploads/17/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00308.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00308.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/6.jpg",
+      "PackagePath": "staticwebassets/uploads/17/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00309.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00309.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/7.jpg",
+      "PackagePath": "staticwebassets/uploads/17/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00322.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00322.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/8.jpg",
+      "PackagePath": "staticwebassets/uploads/17/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00323.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00323.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/17/9.jpg",
+      "PackagePath": "staticwebassets/uploads/17/9.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00324.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00324.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/18/1.jpg",
+      "PackagePath": "staticwebassets/uploads/18/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00325.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00325.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/18/2.jpg",
+      "PackagePath": "staticwebassets/uploads/18/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00326.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00326.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/18/3.jpg",
+      "PackagePath": "staticwebassets/uploads/18/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00327.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00327.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/18/4.jpg",
+      "PackagePath": "staticwebassets/uploads/18/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00328.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00328.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/18/5.jpg",
+      "PackagePath": "staticwebassets/uploads/18/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00329.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00329.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/18/6.jpg",
+      "PackagePath": "staticwebassets/uploads/18/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00330.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00330.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/18/7.jpg",
+      "PackagePath": "staticwebassets/uploads/18/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00331.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00331.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/18/8.jpg",
+      "PackagePath": "staticwebassets/uploads/18/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00332.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00332.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/1.jpg",
+      "PackagePath": "staticwebassets/uploads/19/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00333.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00333.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/10.jpg",
+      "PackagePath": "staticwebassets/uploads/19/10.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00334.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00334.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/2.jpg",
+      "PackagePath": "staticwebassets/uploads/19/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00335.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00335.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/3.jpg",
+      "PackagePath": "staticwebassets/uploads/19/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00336.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00336.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/4.jpg",
+      "PackagePath": "staticwebassets/uploads/19/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00337.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00337.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/5.jpg",
+      "PackagePath": "staticwebassets/uploads/19/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00338.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00338.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/6.jpg",
+      "PackagePath": "staticwebassets/uploads/19/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00339.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00339.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/7.jpg",
+      "PackagePath": "staticwebassets/uploads/19/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00340.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00340.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/8.jpg",
+      "PackagePath": "staticwebassets/uploads/19/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/0703761A30240725W00341.jpg",
-      "PackagePath": "staticwebassets/uploads/10/0703761A30240725W00341.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/19/9.jpg",
+      "PackagePath": "staticwebassets/uploads/19/9.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/10/70007037613024072500300.jpg",
-      "PackagePath": "staticwebassets/uploads/10/70007037613024072500300.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/1.jpg",
+      "PackagePath": "staticwebassets/uploads/20/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00504.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00504.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/10.jpg",
+      "PackagePath": "staticwebassets/uploads/20/10.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00505.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00505.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/2.jpg",
+      "PackagePath": "staticwebassets/uploads/20/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00506.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00506.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/3.jpg",
+      "PackagePath": "staticwebassets/uploads/20/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00507.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00507.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/4.jpg",
+      "PackagePath": "staticwebassets/uploads/20/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00508.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00508.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/5.jpg",
+      "PackagePath": "staticwebassets/uploads/20/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00509.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00509.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/6.jpg",
+      "PackagePath": "staticwebassets/uploads/20/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00510.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00510.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/7.jpg",
+      "PackagePath": "staticwebassets/uploads/20/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00511.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00511.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/8.jpg",
+      "PackagePath": "staticwebassets/uploads/20/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00512.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00512.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/20/9.jpg",
+      "PackagePath": "staticwebassets/uploads/20/9.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00513.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00513.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/1.jpg",
+      "PackagePath": "staticwebassets/uploads/21/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00514.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00514.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/10.jpg",
+      "PackagePath": "staticwebassets/uploads/21/10.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00515.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00515.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/2.jpg",
+      "PackagePath": "staticwebassets/uploads/21/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00516.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00516.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/3.jpg",
+      "PackagePath": "staticwebassets/uploads/21/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00517.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00517.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/4.jpg",
+      "PackagePath": "staticwebassets/uploads/21/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00518.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00518.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/5.jpg",
+      "PackagePath": "staticwebassets/uploads/21/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00519.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00519.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/6.jpg",
+      "PackagePath": "staticwebassets/uploads/21/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00520.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00520.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/7.jpg",
+      "PackagePath": "staticwebassets/uploads/21/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00521.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00521.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/8.jpg",
+      "PackagePath": "staticwebassets/uploads/21/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00522.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00522.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/21/9.jpg",
+      "PackagePath": "staticwebassets/uploads/21/9.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00523.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00523.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/22/1.jpg",
+      "PackagePath": "staticwebassets/uploads/22/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00524.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00524.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/22/2.jpg",
+      "PackagePath": "staticwebassets/uploads/22/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00525.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00525.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/22/3.jpg",
+      "PackagePath": "staticwebassets/uploads/22/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00526.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00526.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/22/4.jpg",
+      "PackagePath": "staticwebassets/uploads/22/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00527.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00527.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/22/5.jpg",
+      "PackagePath": "staticwebassets/uploads/22/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00528.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00528.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/22/6.jpg",
+      "PackagePath": "staticwebassets/uploads/22/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00529.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00529.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/22/7.jpg",
+      "PackagePath": "staticwebassets/uploads/22/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00530.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00530.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/22/8.jpg",
+      "PackagePath": "staticwebassets/uploads/22/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00531.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00531.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/22/9.jpg",
+      "PackagePath": "staticwebassets/uploads/22/9.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00532.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00532.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/23/1.jpg",
+      "PackagePath": "staticwebassets/uploads/23/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00533.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00533.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/23/2.jpg",
+      "PackagePath": "staticwebassets/uploads/23/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00534.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00534.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/23/3.jpg",
+      "PackagePath": "staticwebassets/uploads/23/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00535.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00535.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/23/4.jpg",
+      "PackagePath": "staticwebassets/uploads/23/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00536.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00536.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/23/5.jpg",
+      "PackagePath": "staticwebassets/uploads/23/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00537.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00537.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/23/6.jpg",
+      "PackagePath": "staticwebassets/uploads/23/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00538.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00538.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/24/1.jpg",
+      "PackagePath": "staticwebassets/uploads/24/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00539.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00539.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/24/2.jpg",
+      "PackagePath": "staticwebassets/uploads/24/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00540.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00540.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/24/3.jpg",
+      "PackagePath": "staticwebassets/uploads/24/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00541.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00541.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/24/4.jpg",
+      "PackagePath": "staticwebassets/uploads/24/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00542.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00542.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/24/5.jpg",
+      "PackagePath": "staticwebassets/uploads/24/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00543.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00543.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/24/6.jpg",
+      "PackagePath": "staticwebassets/uploads/24/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/0560010A30250120W00544.jpg",
-      "PackagePath": "staticwebassets/uploads/11/0560010A30250120W00544.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/24/7.jpg",
+      "PackagePath": "staticwebassets/uploads/24/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/11/70005600103025012000500.jpg",
-      "PackagePath": "staticwebassets/uploads/11/70005600103025012000500.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/24/8.jpg",
+      "PackagePath": "staticwebassets/uploads/24/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00102.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00102.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/25/1.jpg",
+      "PackagePath": "staticwebassets/uploads/25/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00103.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00103.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/25/2.jpg",
+      "PackagePath": "staticwebassets/uploads/25/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00104.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00104.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/25/3.jpg",
+      "PackagePath": "staticwebassets/uploads/25/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00105.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00105.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/25/4.jpg",
+      "PackagePath": "staticwebassets/uploads/25/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00106.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00106.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/25/5.jpg",
+      "PackagePath": "staticwebassets/uploads/25/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00107.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00107.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/25/6.jpg",
+      "PackagePath": "staticwebassets/uploads/25/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00108.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00108.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/25/7.jpg",
+      "PackagePath": "staticwebassets/uploads/25/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00109.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00109.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/25/8.jpg",
+      "PackagePath": "staticwebassets/uploads/25/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00111.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00111.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/26/1.jpg",
+      "PackagePath": "staticwebassets/uploads/26/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00112.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00112.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/26/2.jpg",
+      "PackagePath": "staticwebassets/uploads/26/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00113.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00113.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/26/3.jpg",
+      "PackagePath": "staticwebassets/uploads/26/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00114.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00114.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/26/4.jpg",
+      "PackagePath": "staticwebassets/uploads/26/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00115.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00115.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/26/5.jpg",
+      "PackagePath": "staticwebassets/uploads/26/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00116.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00116.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/26/6.jpg",
+      "PackagePath": "staticwebassets/uploads/26/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00117.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00117.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/26/7.jpg",
+      "PackagePath": "staticwebassets/uploads/26/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00118.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00118.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/26/8.jpg",
+      "PackagePath": "staticwebassets/uploads/26/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00119.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00119.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/27/1.jpg",
+      "PackagePath": "staticwebassets/uploads/27/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00120.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00120.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/27/2.jpg",
+      "PackagePath": "staticwebassets/uploads/27/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00121.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00121.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/27/3.jpg",
+      "PackagePath": "staticwebassets/uploads/27/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00122.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00122.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/27/4.jpg",
+      "PackagePath": "staticwebassets/uploads/27/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00123.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00123.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/27/5.jpg",
+      "PackagePath": "staticwebassets/uploads/27/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00124.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00124.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/27/6.jpg",
+      "PackagePath": "staticwebassets/uploads/27/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00125.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00125.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/27/7.jpg",
+      "PackagePath": "staticwebassets/uploads/27/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00126.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00126.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/27/8.jpg",
+      "PackagePath": "staticwebassets/uploads/27/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00127.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00127.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/1.jpg",
+      "PackagePath": "staticwebassets/uploads/28/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00128.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00128.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/10.jpg",
+      "PackagePath": "staticwebassets/uploads/28/10.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00129.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00129.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/2.jpg",
+      "PackagePath": "staticwebassets/uploads/28/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00130.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00130.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/3.jpg",
+      "PackagePath": "staticwebassets/uploads/28/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00131.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00131.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/4.jpg",
+      "PackagePath": "staticwebassets/uploads/28/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00132.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00132.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/5.jpg",
+      "PackagePath": "staticwebassets/uploads/28/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00133.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00133.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/6.jpg",
+      "PackagePath": "staticwebassets/uploads/28/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00134.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00134.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/7.jpg",
+      "PackagePath": "staticwebassets/uploads/28/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/0500811A30250323W00135.jpg",
-      "PackagePath": "staticwebassets/uploads/12/0500811A30250323W00135.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/8.jpg",
+      "PackagePath": "staticwebassets/uploads/28/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/12/70005008113025032300100.jpg",
-      "PackagePath": "staticwebassets/uploads/12/70005008113025032300100.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/28/9.jpg",
+      "PackagePath": "staticwebassets/uploads/28/9.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/13/0500811A30250323W00133.jpg",
-      "PackagePath": "staticwebassets/uploads/13/0500811A30250323W00133.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/1.jpg",
+      "PackagePath": "staticwebassets/uploads/29/1.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/13/0500811A30250323W00134.jpg",
-      "PackagePath": "staticwebassets/uploads/13/0500811A30250323W00134.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/10.jpg",
+      "PackagePath": "staticwebassets/uploads/29/10.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/13/0500811A30250323W00135.jpg",
-      "PackagePath": "staticwebassets/uploads/13/0500811A30250323W00135.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/2.jpg",
+      "PackagePath": "staticwebassets/uploads/29/2.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/13/0500811A30250323W00136.jpg",
-      "PackagePath": "staticwebassets/uploads/13/0500811A30250323W00136.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/3.jpg",
+      "PackagePath": "staticwebassets/uploads/29/3.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/13/0500811A30250323W00137.jpg",
-      "PackagePath": "staticwebassets/uploads/13/0500811A30250323W00137.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/4.jpg",
+      "PackagePath": "staticwebassets/uploads/29/4.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/13/0500811A30250323W00138.jpg",
-      "PackagePath": "staticwebassets/uploads/13/0500811A30250323W00138.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/5.jpg",
+      "PackagePath": "staticwebassets/uploads/29/5.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00201.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00201.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/6.jpg",
+      "PackagePath": "staticwebassets/uploads/29/6.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00202.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00202.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/7.jpg",
+      "PackagePath": "staticwebassets/uploads/29/7.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00203.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00203.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/8.jpg",
+      "PackagePath": "staticwebassets/uploads/29/8.jpg"
     },
     {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00204.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00204.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00205.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00205.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00206.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00206.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00207.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00207.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00208.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00208.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00209.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00209.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00210.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00210.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00211.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00211.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00212.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00212.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00213.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00213.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00214.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00214.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00215.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00215.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00216.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00216.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00217.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00217.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00218.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00218.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00219.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00219.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00220.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00220.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00221.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00221.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00222.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00222.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00223.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00223.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00224.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00224.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00225.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00225.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00226.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00226.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00227.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00227.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00228.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00228.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00229.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00229.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00230.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00230.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00231.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00231.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00232.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00232.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00233.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00233.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00234.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00234.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00235.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00235.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00236.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00236.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00237.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00237.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00238.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00238.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00239.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00239.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00240.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00240.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/1201239A20250327Q00241.jpg",
-      "PackagePath": "staticwebassets/uploads/14/1201239A20250327Q00241.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/14/96502503280120123900200.jpg",
-      "PackagePath": "staticwebassets/uploads/14/96502503280120123900200.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00301.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00301.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00302.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00302.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00303.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00303.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00304.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00304.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00305.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00305.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00306.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00306.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00307.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00307.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00308.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00308.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00309.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00309.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00310.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00310.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00311.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00311.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00312.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00312.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00313.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00313.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00314.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00314.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00315.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00315.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00316.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00316.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00317.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00317.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00318.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00318.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00319.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00319.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00320.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00320.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00321.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00321.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00322.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00322.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00323.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00323.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00324.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00324.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00325.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00325.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00326.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00326.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00327.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00327.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00328.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00328.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00329.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00329.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00330.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00330.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00331.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00331.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00332.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00332.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00333.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00333.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00334.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00334.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00335.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00335.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00336.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00336.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00337.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00337.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00338.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00338.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00339.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00339.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00340.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00340.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/0203158A20250108Q00341.jpg",
-      "PackagePath": "staticwebassets/uploads/15/0203158A20250108Q00341.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/15/96502501090020315800300.jpg",
-      "PackagePath": "staticwebassets/uploads/15/96502501090020315800300.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/3be999c1-0fbe-4ecb-a916-72431442f457_9572469A30241026W00102.jpg",
-      "PackagePath": "staticwebassets/uploads/3be999c1-0fbe-4ecb-a916-72431442f457_9572469A30241026W00102.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/5/428595414_773633767527973_385590602180310012_n.jpg",
-      "PackagePath": "staticwebassets/uploads/5/428595414_773633767527973_385590602180310012_n.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/522b5939-4b77-49b7-a449-e62a2fdecfb4_70095724693024102600100.jpg",
-      "PackagePath": "staticwebassets/uploads/522b5939-4b77-49b7-a449-e62a2fdecfb4_70095724693024102600100.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00501.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00501.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00502.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00502.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00503.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00503.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00504.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00504.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00505.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00505.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00506.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00506.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00507.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00507.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00508.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00508.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00510.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00510.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00511.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00511.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00512.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00512.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00513.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00513.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00514.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00514.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00515.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00515.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00516.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00516.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00517.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00517.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00518.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00518.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00519.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00519.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00520.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00520.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00521.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00521.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/0709105A20250301Q00522.jpg",
-      "PackagePath": "staticwebassets/uploads/7/0709105A20250301Q00522.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/7/96502503020070910500500.jpg",
-      "PackagePath": "staticwebassets/uploads/7/96502503020070910500500.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/70a0feb5-a729-4471-b6b7-c78e54ea20fe_9572469A30241026W00104.jpg",
-      "PackagePath": "staticwebassets/uploads/70a0feb5-a729-4471-b6b7-c78e54ea20fe_9572469A30241026W00104.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00201.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00201.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00202.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00202.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00203.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00203.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00204.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00204.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00205.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00205.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00206.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00206.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00207.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00207.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00208.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00208.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00209.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00209.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00210.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00210.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00211.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00211.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00212.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00212.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00213.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00213.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00214.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00214.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00215.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00215.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00216.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00216.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00217.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00217.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00218.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00218.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00219.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00219.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00220.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00220.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00221.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00221.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00222.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00222.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00223.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00223.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00224.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00224.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00225.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00225.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00226.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00226.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00227.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00227.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00228.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00228.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00229.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00229.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00230.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00230.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00231.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00231.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00232.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00232.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00233.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00233.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00234.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00234.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00235.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00235.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00236.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00236.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00237.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00237.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00238.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00238.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00239.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00239.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/0705894A20250321Q00240.jpg",
-      "PackagePath": "staticwebassets/uploads/8/0705894A20250321Q00240.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/8/96502503220070589400200.jpg",
-      "PackagePath": "staticwebassets/uploads/8/96502503220070589400200.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00304.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00304.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00305.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00305.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00306.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00306.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00307.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00307.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00308.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00308.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00309.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00309.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00310.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00310.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00311.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00311.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00314.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00314.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00315.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00315.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00316.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00316.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00317.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00317.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00318.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00318.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00319.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00319.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00320.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00320.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00321.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00321.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00322.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00322.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00323.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00323.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00324.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00324.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00325.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00325.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00326.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00326.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00327.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00327.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00328.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00328.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00329.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00329.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/0561562A30221223W00330.jpg",
-      "PackagePath": "staticwebassets/uploads/9/0561562A30221223W00330.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/9/70005615623022122300300.jpg",
-      "PackagePath": "staticwebassets/uploads/9/70005615623022122300300.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/b11b9111-95a2-4792-acdb-4eb43e96664a_9572469A30241026W00122.jpg",
-      "PackagePath": "staticwebassets/uploads/b11b9111-95a2-4792-acdb-4eb43e96664a_9572469A30241026W00122.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/b6010b4d-d47b-4284-aba5-18b3f874e108_9572469A30241026W00110.jpg",
-      "PackagePath": "staticwebassets/uploads/b6010b4d-d47b-4284-aba5-18b3f874e108_9572469A30241026W00110.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/bd2608b9-d5ce-48ed-9c7e-100425d86ae5_4391001_mdl_6853abd7.webp",
-      "PackagePath": "staticwebassets/uploads/bd2608b9-d5ce-48ed-9c7e-100425d86ae5_4391001_mdl_6853abd7.webp"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/d82b8dfb-9e7b-4d85-9f6e-1eff54d9f5ff_9572469A30241026W00108.jpg",
-      "PackagePath": "staticwebassets/uploads/d82b8dfb-9e7b-4d85-9f6e-1eff54d9f5ff_9572469A30241026W00108.jpg"
-    },
-    {
-      "Id": "/Users/lakatosj/Downloads/CarDealershipSystem/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/f363231b-e785-456f-bf59-94c27958880e_9572469A30241026W00107.jpg",
-      "PackagePath": "staticwebassets/uploads/f363231b-e785-456f-bf59-94c27958880e_9572469A30241026W00107.jpg"
+      "Id": "/Users/lakatosj/Downloads/carshopproj-main/backend/DealershipBackend/DealershipSystem/wwwroot/uploads/29/9.jpg",
+      "PackagePath": "staticwebassets/uploads/29/9.jpg"
     },
     {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DealershipSystem.Microsoft.AspNetCore.StaticWebAssets.props",

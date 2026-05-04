@@ -99,7 +99,7 @@ public class UserController : ControllerBase
             });
 
 
-            return Ok(new { User = userDto });
+            return Ok(new { AccessToken = accessToken, RefreshToken = refreshToken, User = userDto });
         }
 
         return Unauthorized();
@@ -184,7 +184,14 @@ public class UserController : ControllerBase
                 Location = location != null ? _mapper.Map<LocationDto>(location) : null // Map location to LocationDto if found
             };
 
-            return Ok(loginResponse);
+            return Ok(new
+            {
+                AccessToken = accessToken,
+                RefreshToken = refreshToken,
+                User = loginResponse.User,
+                Role = loginResponse.Role,
+                Location = loginResponse.Location
+            });
         }
 
         return Unauthorized("Invalid email or password.");

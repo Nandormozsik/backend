@@ -1,5 +1,6 @@
 using DealershipSystem.Interfaces;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -8,6 +9,7 @@ namespace DealershipSystem.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class SavedCarsController : ControllerBase
     {
         private readonly ISavedCarService _savedCarService;
